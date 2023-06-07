@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+    <root type="user">
+        <map/>
+        <node name="org">
+            <map/>
+            <node name="jabref">
+                <map>
+
+                    <entry key="mainTableColumnNames"
+                           value="groups;files;linked_id;special:readstatus;field:entrytype;special:ranking;special:priority;field:title;field:origtitle;field:author/editor;field:year;field:language;field:origlanguage;field:note"/>
+                    <entry key="mainTableColumnSortOrder" value=""/>
+                    <entry key="mainTableColumnSortTypes"
+                           value="DESCENDING;ASCENDING;DESCENDING;ASCENDING;DESCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;DESCENDING;ASCENDING;ASCENDING;DESCENDING;ASCENDING"/>
+                    <entry key="mainTableColumnWidths"
+                           value="28.0;28.0;28.0;28.0;118.43813780317876;80.0;28.0;451.0451524493922;92.94962057330947;198.05890687071877;123.8749701972733;102.32049546090118;154.36581756847056;51.83514959679393"/>
+                </map>
+
+
+                <node name="customizedBibtexTypes">
+                    <map>
+                        <entry key="book"
+                               value="jabref-entrytype: book: req[author;translator;editor;title;origtitle;publisher;year;pages;language;origlanguage] opt[volume;number;series;address;edition;month;isbn;note]"/>
+                    </map>
+                </node>
+
+            </node>
+        </node>
+    </root>
+</preferences>
+
